@@ -142,3 +142,58 @@ h1{
     position: absolute;
     margin: 500px 1250px;
 }
+.footer{
+    position: absolute;
+    margin: 1250px 0px;
+}
+.head1{
+    position: absolute;
+    margin: 0px 625px;
+    width: 200px;
+    height: 20px;
+}
+.details2{
+    position: absolute;
+    margin: 40px 400px;
+    text-align: center;
+    font-family: "Playwrite DE Grund", cursive;
+    height: 100px;
+    width: 550px;
+}
+.dish1{
+    position: absolute;
+    margin: 200px 160px;
+    height: 450px;
+    width: 440px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+}
+.dish2{
+    position: absolute;
+    margin: 200px 750px;
+    height: 450px;
+    width: 440px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+}
+.img9{
+    background-image: url(cook.jpg);
+    height: 280px;
+    width: 370px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 30px 33px;
+}
+.img10{
+    background-image: url(dish.png);
+    height: 280px;
+    width: 370px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 30px 33px;
+    border-radius: 20px;
+}
