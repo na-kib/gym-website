@@ -263,3 +263,7 @@ h1{
     margin-right: 0px;
     font-size: 13px;
 }
+.copyright{
+    position: absolute;
+    margin: 270px 600px;
+}
