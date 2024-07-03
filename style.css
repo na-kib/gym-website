@@ -163,37 +163,103 @@ h1{
 .dish1{
     position: absolute;
     margin: 200px 160px;
-    height: 450px;
+    height: 470px;
     width: 440px;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.3);
 }
 .dish2{
     position: absolute;
     margin: 200px 750px;
-    height: 450px;
+    height: 470px;
     width: 440px;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.3);
 }
 .img9{
     background-image: url(cook.jpg);
-    height: 280px;
-    width: 370px;
+    height: 296px;
+    width: 390px;
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
-    margin: 30px 33px;
+    margin: 22px 25px;
 }
 .img10{
     background-image: url(dish.png);
-    height: 280px;
-    width: 370px;
+    height: 300px;
+    width: 390px;
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
-    margin: 30px 33px;
+    margin: 22px 25px;
     border-radius: 20px;
+}
+#head1{
+    position: absolute;
+    margin: 340px 50px;
+}
+#s-head1{
+    position: absolute;
+    margin: 380px 50px;
+    text-align: justify;
+    height: 100px;
+    width: 360px;
+    font-family: "Playwrite DE Grund", cursive;
+    font-size: 13px;
+}
+.followers{
+    position: absolute;
+    height: 150px;
+    width: 1030px;
+    margin: 730px 160px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2);
+}
+.facebook{
+    position: absolute;
+    margin: 45px 245px;
+}
+.s-facebook{
+    position: absolute;
+    margin: 85px 200px;
+}
+.youtube{
+    position: absolute;
+    margin: 45px 500px;
+}
+.s-youtube{
+    position: absolute;
+    margin: 85px 440px;
+    margin-right: 0px;
+}
+.instagram{
+    position: absolute;
+    margin: 45px 740px;
+}
+.s-instagram{
+    position: absolute;
+    margin: 85px 700px;
+    margin-right: 0px;
+}
+#footer{
+    position: absolute;
+    margin: 970px 0px;
+    height: 300px;
+    width: 1350px;
+    background-color: #0a0a1f;
+}
+.heaad{
+    position: absolute;
+    margin: 80px 630px;
+    margin-right: 0px;
+}
+.s-heaad{
+    position: absolute;
+    margin: 120px 540px;
+    margin-right: 0px;
+    font-size: 13px;
 }
